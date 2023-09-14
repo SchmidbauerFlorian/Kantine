@@ -1,3 +1,6 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 nav{
     background-color: darkslateblue;
     text-align: center;
@@ -7,5 +10,10 @@ a{
     margin: 80pt;
     color: whitesmoke;
     font-size: 15pt;
-    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    width: 80%;
+}
+th, td, tr{
+    text-align: center;
 }
