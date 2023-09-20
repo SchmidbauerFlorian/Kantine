@@ -1,14 +1,16 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    background-color:bisque;
 }
 nav{
-    background-color: darkslateblue;
+    background-color: darkorchid;
     text-align: center;
     padding: 10pt;
 }
 a{
+    background-color: darkorchid;
     margin: 80pt;
-    color: whitesmoke;
+    color: beige;
     font-size: 15pt;
 }
 table{
